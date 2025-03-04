@@ -20,6 +20,7 @@ Having worked at Amazon most of my career, you'll find this list pretty AWS-heav
 - **Observability**: CloudWatch, Prometheus, Grafana, Logstash, FluentBit, New Relic
 - **Containers & Orchestration**: Docker, Kubernetes, ECS
 - **ML/AI**: Sagemaker, Bedrock
+- **Event Driven** SQS, EventBridge, Dynamo Streams
 - **Front-end**: React, (a little bit of) Vue 
 
 ---
